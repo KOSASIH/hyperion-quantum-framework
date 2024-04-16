@@ -3,7 +3,7 @@ Hyperion Quantum Computing Framework
 ============
 
 .. image:: https://img.shields.io/badge/license-Apache%202.0-blue.svg
-    :target: https://github.com/<USERNAME>/hyperion-quantum-framework/blob/master/LICENSE
+    :target: https://github.com/KOSASIH/hyperion-quantum-framework/blob/master/LICENSE
     :alt: License
 
 .. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg
